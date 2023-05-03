@@ -23,7 +23,9 @@
 * I developed an Application  using Flask, Javascript, Bootstrap, CSS and HTML to do the prediction.
 
 ## Demo
-![GIF](readme_resources/IPL Score Predictor App.gif)
+![IPL Score Predictor App](https://github.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/blob/main/readme_resources/IPL%20Score%20Predictor%20App.gif)
+
+<code><img width="426" height="240" src="https://github.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/blob/main/readme_resources/IPL%20Score%20Predictor%20App.gif"></code>
 ## Technologies Used
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/html.png"></code>

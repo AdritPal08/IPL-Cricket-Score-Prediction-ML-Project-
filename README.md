@@ -25,7 +25,6 @@
 ## Demo
 ![IPL Score Predictor App](https://github.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/blob/main/readme_resources/IPL%20Score%20Predictor%20App.gif)
 
-<code><img width="426" height="240" src="https://github.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/blob/main/readme_resources/IPL%20Score%20Predictor%20App.gif"></code>
 ## Technologies Used
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/html.png"></code>
@@ -38,3 +37,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/numpy.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/matplotlib.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/sikitlearn.png"></code>
+
+## Follow Me :
+<div align="center">
+    <a href="https://github.com/AdritPal08" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&colorB=555" alt="GitHub"></a>
+    <a href="https://www.linkedin.com/in/adritpal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&colorB=0077B5" alt="LinkedIn"></a>
+    <a href="https://www.kaggle.com/adritpal08/" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-teal?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/adritpal08/" alt="Kaggle"></a>
+</div>
+
+
+## 
+- If you like my work and it helped you in anyway then please do ⭐ the repository it will motivate me to make more amazing projects

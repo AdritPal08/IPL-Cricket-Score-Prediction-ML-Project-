@@ -1,0 +1,4 @@
+Model Name,Best Score,Best Parameters
+Linear Regression,-507.4762294295695,{}
+Ridge,-507.4784792257218,{'alpha': 0.9899999999999995}
+Lasso,-508.0736842239371,{'alpha': 0.1}

@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='IPL-Cricket-Score-Prediction-ML-Project-',
+name='IPL-Cricket-Score-Prediction-ML-Project--0.1',
 version='0.1',
 author='Adrit',
 author_email='adritpal4@gmail.com',

@@ -1,5 +1,5 @@
 from setuptools import find_packages,setup
-from typing_custom import List
+# from typing_custom import List
 from typing import List
 
 HYPEN_E_DOT='-e .'

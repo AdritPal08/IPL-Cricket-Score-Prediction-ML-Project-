@@ -1,6 +1,9 @@
 
 # Indian Premier League(IPL) Score Predictor [End to End Machine Learning Project]
 
+<img src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/IPL.jpg" width="750"  height="400" >
+
+
 * The IPL Score Predictor project is about predicting the batting team's score.
 * The team names for both the batting and bowling dropdown options in the web application are the up-to-date names of the teams.
 

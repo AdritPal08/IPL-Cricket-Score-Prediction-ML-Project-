@@ -41,6 +41,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/matplotlib.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/sikitlearn.png"></code>
 
+## License :
+[Apache License](LICENSE)
+
 ## Follow Me :
 <div align="center">
     <a href="https://github.com/AdritPal08" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&colorB=555" alt="GitHub"></a>

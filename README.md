@@ -1,5 +1,6 @@
 
-# Indian Premier League(IPL) Score Predictor [End To End Machine Learning Project Implementation With Docker, GitHub Actions and Deployed this on the Heroku platform]
+# Indian Premier League(IPL) Score Predictor 
+## [Implementation of an End-to-End Machine Learning Project using Docker, GitHub Actions, and a CI/CD Pipeline, with Deployment on the Heroku Platform]
 
 <img src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/IPL.jpg" width="750"  height="400" >
 

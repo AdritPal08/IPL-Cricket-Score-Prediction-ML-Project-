@@ -35,13 +35,6 @@
 
 ![IPL Score Predictor App](https://github.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/blob/main/readme_resources/IPL%20Score%20Predictor%20App.gif)
 
-## Dashboard
-* Dashboard Link: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMGQ3MjQ2MTctMjUwNi00ZmI5LTkwNGItODZkYTUxYzUxOTdmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-
-![S1](/readme_resources/dashboard/S1.png)
-![S2](/readme_resources/dashboard/S2.png)
-![S3](/readme_resources/dashboard/S3.png)
-
 ## Technologies Used
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/AdritPal08/IPL-Cricket-Score-Prediction-ML-Project-/main/readme_resources/html.png"></code>
